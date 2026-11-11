@@ -3,7 +3,7 @@
 A = [3, 2, 8, 1; 7, 2, 5, 6; 0, 7, 3, 5];
 
 % Transpose:
-A' 
+A'
 
 % Extracting elements and vectors:
 A(2,3)
